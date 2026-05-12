@@ -1,4 +1,4 @@
-# 
+# vip sandwich attack bot | stop-loss + multi-wallet-support is the best sandwich attack bot, featuring stop-loss and multi-wallet-support. Fast, smart, and optimized for MEV and
 
 
 
